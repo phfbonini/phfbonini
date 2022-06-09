@@ -1,6 +1,6 @@
-<h2 align="center"> Hey, how are you? Welcome to my repository on Github! <h2>
+<h2> Hey, how are you? Welcome to my repository on Github! <h2>
   
-<div align="center">
+<div>
   <a href="https://github.com/phfbonini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phfbonini&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfbonini&layout=compact&langs_count=7&theme=onedark"/>
