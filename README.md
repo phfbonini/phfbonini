@@ -9,6 +9,7 @@
 ##
   
 <div style="display: inline_block"><br>
+  <h3>Dev Skills: </h3>
   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
@@ -27,14 +28,14 @@
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   
   <img align="center" alt="VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
-          
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://media-exp2.licdn.com/dms/image/C4D03AQHuHd40NguL8Q/profile-displayphoto-shrink_800_800/0/1647397181049?e=1660176000&v=beta&t=_Vkbux3lAWVIWLZDelpTFq_OHJEF94PLEP9YrhrZo2s">
-  
+        
 </div>
  
 ##
   
 <div> 
+  <h3>Links que vão te ajudar: </h3>
+  
   <a href="https://instagram.com/phfbonini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/pbonis" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/d75dbEePy4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
