@@ -4,9 +4,9 @@
 #### Sobre mim:
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Desenvolvedor Junior na Saframax. </p>
+<p> - 👨‍💻 Desenvolvedor Web Mobile na Saframax. </p>
 <p> - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas </p>
-<p> - 🎯 Interesse: Java, XML, Spring Boot, API , HTML, CSS, JavaScript, React, Web e Mobile </p>
+<p> - 🎯 Interesse: Java, Springboot, Javascript, React - Desenvolvimento Back-End & Mobile</p>
 - :detective: Total de visitas no meu perfil: <br>
 <p> <img alingn="center" src="https://profile-counter.glitch.me/phfbonini/count.svg" /> </p>
 
@@ -28,17 +28,8 @@
   #
  
   ### Minhas Habilidades:
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,php,css,html,java,androidstudio,vscode,linux,mysql,github,git,ps,postman)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,androidstudio,javascript,react,nodejs,mysql,github,git,postman,vscode)](https://skillicons.dev)
  
 ##
-  
-<div> 
 
-  ![Snake animation](https://github.com/phfbonini/phfbonini/blob/output/github-contribution-grid-snake.svg)
-
-##
-
-
- 
-</div>
 
