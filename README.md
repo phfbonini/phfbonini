@@ -4,7 +4,7 @@
 #### Sobre mim:
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Desenvolvedor Web Mobile na Saframax. </p>
+<p> - 👨‍💻 Analista de Sistemas na Coamo Agroindustrial Cooperativa. </p>
 <p> - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas </p>
 <p> - 🎯 Interesse: Java, Springboot, Javascript, React - Desenvolvimento Back-End & Mobile</p>
 - :detective: Total de visitas no meu perfil: <br>
