@@ -28,7 +28,7 @@
   #
  
   ### Minhas Habilidades:
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,postgres,androidstudio,javascript,react,nodejs,mysql,github,git,postman,vscode)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,java,spring,androidstudio,postgres,mysql,github,git,postman,vscode)](https://skillicons.dev)
  
 ##
 
