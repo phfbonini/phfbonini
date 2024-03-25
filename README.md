@@ -5,8 +5,7 @@
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
 <p> - 👨‍💻 Analista de Sistemas na Coamo Agroindustrial Cooperativa. </p>
-<p> - 👨‍🎓 Graduando em Análise e Desenvolvimento de Sistemas </p>
-<p> - 🎯 Interesse: Java, Springboot, Javascript, React - Desenvolvimento Back-End & Mobile</p>
+<p> - 🎯 Proficiência em Java, Springboot, Javascript, React Native - Desenvolvimento Back-End, Front-End & Mobile</p>
 - :detective: Total de visitas no meu perfil: <br>
 <p> <img alingn="center" src="https://profile-counter.glitch.me/phfbonini/count.svg" /> </p>
 
@@ -14,9 +13,12 @@
 
 <div>
   <a href="https://github.com/phfbonini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phfbonini&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfbonini&layout=compact&langs_count=7&theme=onedark"/>
-
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phfbonini&theme=city_lights&include_all_commits=true&count_private=true"" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phfbonini&layout=compact&langs_count=8&card_width=320&theme=city_lights" />
+</a>
 <h3>Links que podem te ajudar:</h3>
   <a href="https://instagram.com/phfbonini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/pbonis" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
