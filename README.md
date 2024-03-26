@@ -12,10 +12,10 @@
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=phfbonini&rank_icon=github&theme=city_lights&include_all_commits=true&hide=issues&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phfbonini&rank_icon=github&theme=city_lights&include_all_commits=true&hide=issues" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phfbonini&layout=compact&langs_count=8&card_width=320&theme=city_lights" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phfbonini&layout=compact&langs_count=8&theme=city_lights&card_width=320&" />
 </a>
 <h3>Links que podem te ajudar:</h3>
   <a href="https://instagram.com/phfbonini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
