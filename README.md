@@ -8,11 +8,11 @@
 <p> - 🎯 Desenvolvimento Web e Mobile
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,nodejs,java,spring,androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,java,spring,androidstudio)](https://skillicons.dev)
 
 <div>
   <a href="https://github.com/phfbonini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phfbonini&show_icons=true&theme=city_lights&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phfbonini&show_icons=true&theme=city_lights&count_private=true&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phfbonini&layout=compact&langs_count=7&theme=city_lights"/>
 </div>
 
