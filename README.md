@@ -4,7 +4,7 @@
 #### Sobre mim:
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="naruto.gif?raw=true" />
-<p> - 👨‍💻 Analista de Sistemas na Coamo Agroindustrial Cooperativa. </p>
+<p> - 👨‍💻 Desenvolvedor de Software na Elotech. </p>
 <p> - 🎯 Desenvolvimento Web e Mobile</p>
 </div>
 
